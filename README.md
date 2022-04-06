@@ -8,4 +8,8 @@
 
  </p>
  
+ <p align="center">
+ 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=thibautizard)](https://git.io/streak-stats)
+
+  </p>
