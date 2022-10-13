@@ -1,5 +1,3 @@
-[![Visits Badge](https://badges.pufler.dev/visits/thibautizard/thibautizard)](https://github.com/thibautizard)
-
 <p align="left" style="display:flex; justify-content:center;"> 
   
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="c" width="40" height="40"/>
