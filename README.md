@@ -17,15 +17,15 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Front
 
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Gatsby-informational?style=flat&logo=gatsby&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=17b572)
 
 ### Back
 
@@ -64,7 +64,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ## 📌 Projets
 
 <br>
-
+<!-- BLOG-POST-LIST:START 
 <a href="https://github.com/braydoncoyer/tailwindcss-v2-dark-mode-template">
   <img align="center" style="margin:0.5rem" src="https://github-readme-stats.vercel.app/api/pin/?username=braydoncoyer&repo=tailwindcss-v2-dark-mode-template&title_color=ffffff&text_color=c9cacc&icon_color=4AB197&bg_color=1A2B34" />
 </a>
@@ -87,7 +87,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 <br>
 <br>
-
+-->
 ## &#x1f4c8; GitHub Stats
 
 <br>
