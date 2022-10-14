@@ -44,10 +44,10 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=9b0000)
 ![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=9b0000)
 
-<br>
+### Hosting et devtools
 
-![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=GitLab&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1C1C1C)
+![](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=GitLab&logoColor=white&color=1C1C1C)
 
 
 <br>
