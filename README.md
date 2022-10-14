@@ -8,8 +8,8 @@ Je suis Thibaut, un développeur frontend React et UX/UI designer qui associe le
 
 Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon portfolio](https://thibautizard.netlify.app/)
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-informational?style=social&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/thibaut-izard-sudweb/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=social&logo=codepen&color=black)](https://codepen.io/t_zrd)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/thibaut-izard-sudweb/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen--informational?style=social&logo=codepen&color=black)](https://codepen.io/t_zrd)
 
 <br>
 
