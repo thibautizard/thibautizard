@@ -29,19 +29,20 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Back
 
-![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2862ed)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=2862ed)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=2862ed)
 
 ### Design
 
 ![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=4AB197)
 
 ### Base de données
 
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=9b0000)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=9b0000)
 
 <br>
 
