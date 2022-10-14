@@ -36,6 +36,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ### Base de données
 
 ![](https://img.shields.io/badge/Code-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=postgresql&color=4AB197)
 
 
 ![](https://img.shields.io/badge/Tools-Postman-informational?style=flat&logo=Postman&logoColor=white&color=4AB197)
