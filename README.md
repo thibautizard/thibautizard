@@ -35,9 +35,9 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Design
 
-![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=c94d0d)
+![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=c94d0d)
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=c94d0d)
 
 ### Base de données
 
