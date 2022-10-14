@@ -17,15 +17,15 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Front
 
-![](https://img.shields.io/badge/Javascript-informational?style=flat&logo=JavaScript&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/React-informational?style=flat&logo=react&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Next-informational?style=flat&logo=nextdotjs&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/CSS-informational?style=flat&logo=css3&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Sass-informational?style=flat&logo=Sass&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Jest-informational?style=flat&logo=jest&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Netlify-informational?style=flat&logo=netlify&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/NPM-informational?style=flat&logo=npm&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=17b572)
 
 ### Back
 
