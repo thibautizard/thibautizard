@@ -87,7 +87,8 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 <br>
 <br>
 -->
-## &#x1f4c8; GitHub Stats
+
+## GitHub Stats
 
 <br>
 
