@@ -1,14 +1,15 @@
 <!-- 
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 -->
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thibaut-izard-sudweb/)
-[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=flat&logo=codepen&logoColor=white&color=black)](https://codepen.io/t_zrd)
 
 👋
 
 Je suis Thibaut, un développeur frontend React et UX/UI designer qui associe le meilleur du design avec la pointe du développement en Javascript.
 
 Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon portfolio](https://thibautizard.netlify.app/)
+
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=social&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/thibaut-izard-sudweb/)
+[![CodePen Badge](https://img.shields.io/badge/CodePen-Profile-informational?style=social&logo=codepen&logoColor=white&color=black)](https://codepen.io/t_zrd)
 
 <br>
 
