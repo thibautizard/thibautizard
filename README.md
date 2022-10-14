@@ -29,6 +29,8 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Back
 
+![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=4AB197)
 
 ### Design
