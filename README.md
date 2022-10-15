@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 -->
 
-  <h2 align="center">Bonjour 👋</h2> 
+  <h1 align="center">Bonjour 👋</h1> 
 </br>
 </br>
 <p align="center">
