@@ -8,13 +8,14 @@
 </p>
 </br>
 
-👋 Je suis Thibaut, un **développeur frontend React** et **UX/UI designer** basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
+<p align="center">
+👋 Je suis Thibaut, un développeur frontend React et UX/UI designer basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
 
 Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon portfolio](https://thibautizard.netlify.app/)
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&color=0D76A8)](https://www.linkedin.com/in/thibaut-izard-sudweb/)
 [![CodePen Badge](https://img.shields.io/badge/CodePen--informational?style=social&logo=codepen&color=black)](https://codepen.io/t_zrd)
-
+</p>
 <br>
 
 <p align="center">
