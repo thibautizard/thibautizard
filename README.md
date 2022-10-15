@@ -19,6 +19,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=17b572)
