@@ -9,7 +9,7 @@
 </br>
 
 <p align="center">
-  <h3>👋</h3> 
+  <h3 align="center">👋</h3> 
   </p>
   
   <p align="center">
