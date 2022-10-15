@@ -15,7 +15,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ## 💼 Stack
 
-### Front
+### Frontend
 
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=17b572)
@@ -28,11 +28,17 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=17b572)
 
-### Back
+### Backend
 
 ![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2862ed)
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=2862ed)
 ![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=2862ed)
+
+### Base de données et ORM
+
+![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=9b0000)
+![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=9b0000)
+![](https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white&color=9b0000)
 
 ### Design
 
@@ -44,12 +50,6 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ### Data analysis
 
 ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white&color=6638f0)
-
-### Base de données et ORM
-
-![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=9b0000)
-![](https://img.shields.io/badge/PostgreSQL-informational?style=for-the-badge&logo=postgresql&logoColor=white&color=9b0000)
-![](https://img.shields.io/badge/Sequelize-informational?style=for-the-badge&logo=sequelize&logoColor=white&color=9b0000)
 
 
 ### Hosting
