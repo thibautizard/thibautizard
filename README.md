@@ -9,7 +9,11 @@
 </br>
 
 <p align="center">
-  <h3>👋</h3> <br> <br> Je suis Thibaut, un développeur frontend React et UX/UI designer basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
+  <h3>👋</h3> 
+  </p>
+  
+  <p align="center">
+  Je suis Thibaut, un développeur frontend React et UX/UI designer basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
 </p>
 
 <p align="center">
