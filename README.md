@@ -40,6 +40,11 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=c94d0d)
 ![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=c94d0d)
 
+
+### Data analysis
+
+![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white&color=6638f0)
+
 ### Base de données
 
 ![](https://img.shields.io/badge/MySQL-informational?style=for-the-badge&logo=MySQL&logoColor=white&color=9b0000)
