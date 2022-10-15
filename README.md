@@ -41,9 +41,9 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Backend
 
-![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=2862ed)
-![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=2862ed)
-![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=2862ed)
+![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1928af)
+![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=1928af)
+![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=1928af)
 
 ### Base de données et ORM
 
@@ -53,9 +53,9 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 ### Design
 
-![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=c94d0d)
-![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=c94d0d)
-![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=c94d0d)
+![](https://img.shields.io/badge/Photoshop-informational?style=for-the-badge&logo=Adobe-Photoshop&logoColor=white&color=f94c1e)
+![](https://img.shields.io/badge/Illustrator-informational?style=for-the-badge&logo=Adobe-Illustrator&logoColor=white&color=f94c1e)
+![](https://img.shields.io/badge/Figma-informational?style=for-the-badge&logo=figma&logoColor=white&color=f94c1e)
 
 
 ### Data analysis
