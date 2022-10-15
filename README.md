@@ -20,8 +20,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 <p align="center">
   <a href="https://www.linkedin.com/in/thibaut-izard-sudweb/"><img src="https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&color=0D76A8"></a>
-
-[![CodePen Badge](https://img.shields.io/badge/CodePen--informational?style=social&logo=codepen&color=black)](https://codepen.io/t_zrd)
+  <a href="https://codepen.io/t_zrd"><img src="[https://img.shields.io/badge/LinkedIn--informational?style=social&logo=linkedin&color=0D76A8](https://img.shields.io/badge/CodePen--informational?style=social&logo=codepen&color=black)"></a>
 </p> 
 
 <br>
