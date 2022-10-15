@@ -2,7 +2,7 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 -->
 
-<p style="font-size:40px">👋 Je suis Thibaut, un **développeur frontend React** et **UX/UI designer** basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.</p>
+<font size="6">👋 Je suis Thibaut, un **développeur frontend React** et **UX/UI designer** basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.</size>
 
 </br>
 <p align="center">
