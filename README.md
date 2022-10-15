@@ -8,9 +8,7 @@
 </p>
 </br>
 
-<p align="center">
-  <h3 align="center">👋</h3> 
-  </p>
+  <h2 align="center">👋</h3> 
   
   <p align="center">
   Je suis Thibaut, un développeur frontend React et UX/UI designer basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
