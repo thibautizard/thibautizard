@@ -4,14 +4,7 @@
 
   <h1 align="center">Bonjour 👋</h1> 
 </br>
-</br>
-<p align="center">
-  <img src="assets/profile_pic.png" align="center" alt="Profile picture" width="300"/>
-</p>
-</br>
 
-
-  
   <p align="center">
   Je suis Thibaut, un développeur frontend React et UX/UI designer basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
 </p>
