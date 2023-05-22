@@ -20,12 +20,6 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 
 <br>
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="http://github-readme-streak-stats.herokuapp.com?user=thibautizard&theme=soft-green&locale=fr&background=0D1116&stroke=DDDDDD00&sideLabels=17B572&border=DDDDDD00&fire=F94C1E&currStreakNum=DDDDDD&sideNums=DDDDDD&ring=DDDDDD"/></a>
-</p>
-
-<br>
-
 ## 💼 Stack
 
 ### Frontend
