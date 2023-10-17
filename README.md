@@ -29,7 +29,7 @@ Envie d'en savoir plus sur mon travail ? <a href="https://thibautizard.netlify.a
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Gatsby-informational?style=for-the-badge&logo=gatsby&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Material_Design-informational?style=for-the-badge&logo=materialdesign&logoColor=white&color=17b572)
