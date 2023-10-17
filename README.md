@@ -41,6 +41,7 @@ Envie d'en savoir plus sur mon travail ? <a href="https://thibautizard.netlify.a
 
 ![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1928af)
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=1928af)
+![](https://img.shields.io/badge/Supabase-informational?style=for-the-badge&logo=supabase&logoColor=white&color=1928af)
 ![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=1928af)
 
 ### Base de données et ORM
