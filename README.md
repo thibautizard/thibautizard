@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon portfolio](https://thibautizard.netlify.app/)
+Envie d'en savoir plus sur mon travail ? <a href="https://thibautizard.netlify.app/" target="_blank">N'hésitez pas à jeter un oeil à mon portfolio</a>
 </p>
 
 <p align="center">
@@ -25,6 +25,7 @@ Envie d'en savoir plus sur mon travail ? [N'hésitez pas à jeter un oeil à mon
 ### Frontend
 
 ![](https://img.shields.io/badge/Javascript-informational?style=for-the-badge&logo=JavaScript&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=17b572)
