@@ -28,21 +28,16 @@ Envie d'en savoir plus sur mon travail ? <a href="https://thibautizard.netlify.a
 ![](https://img.shields.io/badge/Angular-informational?style=for-the-badge&logo=angular&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/React-informational?style=for-the-badge&logo=react&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Redux-informational?style=for-the-badge&logo=redux&logoColor=white&color=17b572)
+![](https://img.shields.io/badge/Rxjs-informational?style=for-the-badge&logo=rxjs&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Next-informational?style=for-the-badge&logo=nextdotjs&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Astro-informational?style=for-the-badge&logo=astro&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/CSS-informational?style=for-the-badge&logo=css3&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Sass-informational?style=for-the-badge&logo=Sass&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Material_Design-informational?style=for-the-badge&logo=materialdesign&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/Three-informational?style=for-the-badge&logo=threedotjs&logoColor=white&color=17b572)
 ![](https://img.shields.io/badge/Jest-informational?style=for-the-badge&logo=jest&logoColor=white&color=17b572)
-![](https://img.shields.io/badge/NPM-informational?style=for-the-badge&logo=npm&logoColor=white&color=17b572)
 
 ### Backend
 
 ![](https://img.shields.io/badge/Node-informational?style=for-the-badge&logo=nodedotjs&logoColor=white&color=1928af)
 ![](https://img.shields.io/badge/Express-informational?style=for-the-badge&logo=express&logoColor=white&color=1928af)
 ![](https://img.shields.io/badge/Supabase-informational?style=for-the-badge&logo=supabase&logoColor=white&color=1928af)
-![](https://img.shields.io/badge/Postman-informational?style=for-the-badge&logo=Postman&logoColor=white&color=1928af)
 
 ### Base de données et ORM
 
