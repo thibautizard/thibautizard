@@ -55,17 +55,6 @@ Envie d'en savoir plus sur mon travail ? <a href="https://thibautizard.netlify.a
 
 ![](https://img.shields.io/badge/R-informational?style=for-the-badge&logo=r&logoColor=white&color=6638f0)
 
-
-### Hosting
-
-![](https://img.shields.io/badge/GitHub-informational?style=for-the-badge&logo=GitHub&logoColor=white&color=1C1C1C)
-![](https://img.shields.io/badge/GitLab-informational?style=for-the-badge&logo=GitLab&logoColor=white&color=1C1C1C)
-![](https://img.shields.io/badge/Netlify-informational?style=for-the-badge&logo=netlify&logoColor=white&color=1C1C1C)
-![](https://img.shields.io/badge/Heroku-informational?style=for-the-badge&logo=heroku&logoColor=white&color=1C1C1C)
-![](https://img.shields.io/badge/Vercel-informational?style=for-the-badge&logo=vercel&logoColor=white&color=1C1C1C)
-
-
-
 <br>
 
 <!-- BLOG-POST-LIST:START 
