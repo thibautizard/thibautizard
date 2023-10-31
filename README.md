@@ -6,7 +6,7 @@
 </br>
 
   <p align="center">
-  Je suis Thibaut, un développeur frontend React et UX/UI designer basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
+  Je suis Thibaut, un développeur frontend React et Angular basé à Toulouse (France) qui associe le meilleur du design avec la pointe du développement en Javascript.
 </p>
 
 <p align="center">
