@@ -2,14 +2,14 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/BraydonCoyer)
 -->
 
-<h1 align="center">Hi 👋</h1> 
+<h1 align="center">Hi there 👋</h1> 
 </br>
 <p align="center">
-  Je suis Thibaut, un développeur frontend spécialiste React basé à Toulouse (France).
+  <b>I'm Thibaut, a React frontend developer based in Toulouse (France).</b>
 </p>
 
 <p align="center">
-  Envie d'en savoir plus sur mon travail ? <a href="https://thibautizard.netlify.app/" target="_blank">N'hésitez pas à jeter un oeil à mon portfolio</a> ou à mes réseaux 👇
+  Want to know more about my work ? <a href="https://thibautizard.netlify.app/" target="_blank"> Have a look at my portfolio</a> of follow me on my networks 👇
 </p>
 
 <p align="center">
